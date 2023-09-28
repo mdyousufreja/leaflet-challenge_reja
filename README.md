@@ -10,3 +10,13 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 Files
 Download the following files to help you get started:
+
+
+Instructions
+The instructions for this activity are broken into two parts:
+
+Part 1: Create the Earthquake Visualization
+
+Part 2: Gather and Plot More Data (Optional with no extra points earning)
+
+Part 1: Create the Earthquake Visualization
