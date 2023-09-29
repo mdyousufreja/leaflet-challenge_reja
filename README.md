@@ -51,7 +51,7 @@ My first task is to visualize an earthquake dataset. Completed the following ste
 
    - Created a legend that will provide context for your map data.
 
-   - My visualization should look something like the below map.
+   - My visualization looks something like the below map.
   
     ![alt text](https://github.com/mdyousufreja/leaflet-challenge_reja/assets/135454460/8067b69f-9460-4710-86a7-6cef6b2d35c9)
 
